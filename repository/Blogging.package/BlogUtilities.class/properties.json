@@ -1,0 +1,14 @@
+{
+	"category" : "Blogging",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BlogUtilities",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
