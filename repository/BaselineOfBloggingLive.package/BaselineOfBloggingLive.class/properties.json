@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfBloggingLive",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfBloggingLive",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
